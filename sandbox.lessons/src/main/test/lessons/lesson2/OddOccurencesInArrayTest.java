@@ -1,9 +1,11 @@
-package lessons.two;
+package lessons.lesson2;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import lessons.lesson2.OddOccurencesInArray;
 
 /**
  * JUnit tests for OddOccurencesInArray.
