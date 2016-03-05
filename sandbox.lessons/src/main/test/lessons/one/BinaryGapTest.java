@@ -1,6 +1,3 @@
-/**
- * 
- */
 package lessons.one;
 
 import static org.junit.Assert.assertEquals;
@@ -41,3 +38,4 @@ public class BinaryGapTest {
 	}
 
 }
+
